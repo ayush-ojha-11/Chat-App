@@ -64,15 +64,13 @@ This is a **Realtime Chat Application** built using the **MERN stack** (MongoDB,
 
 ![Login Page](https://private-user-images.githubusercontent.com/40912502/425341858-469779f2-00d8-40ed-a619-d45845b27e2e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NDIzNjEsIm5iZiI6MTc0MjU0MjA2MSwicGF0aCI6Ii80MDkxMjUwMi80MjUzNDE4NTgtNDY5Nzc5ZjItMDBkOC00MGVkLWE2MTktZDQ1ODQ1YjI3ZTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDA3Mjc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlMzk5NDk0MzU4MDFjZjJmNWI1Y2FiNWUyMjM3YjdlNTljMzZkOTBjM2NiYzAxMGYxNDhiYmZiNTQwYmU0NTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yspkFaQ2HJ-ypI6SXrilSpoJKkBtnh7wiiE5qbC7w-c)
 
+### Home Page
+
+![Home Page](https://github.com/user-attachments/assets/88a2b9d9-12c7-480c-8673-a6595cb4f53b)
+
 ### Chat Interface
 
-![Chat Interface](path/to/chat-interface-screenshot.png)
-
-### Group Chat
-
-![Group Chat](path/to/group-chat-screenshot.png)
-
-> Replace `path/to/...` with the actual paths to your screenshots.
+![Chat Interface](https://github.com/user-attachments/assets/473ff8f7-93eb-4171-ac45-160c780cea16)
 
 ## Folder Structure
 
@@ -94,13 +92,9 @@ This is a **Realtime Chat Application** built using the **MERN stack** (MongoDB,
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries, feel free to reach out:
 
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Email: ayushojha1512@gmail.com
+- GitHub: [ayush-ojha-11](https://github.com/ayush-ojha-11)
