@@ -62,7 +62,7 @@ This is a **Realtime Chat Application** built using the **MERN stack** (MongoDB,
 
 ### Login Page
 
-![Login Page](https://private-user-images.githubusercontent.com/40912502/425341858-469779f2-00d8-40ed-a619-d45845b27e2e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NDIzNjEsIm5iZiI6MTc0MjU0MjA2MSwicGF0aCI6Ii80MDkxMjUwMi80MjUzNDE4NTgtNDY5Nzc5ZjItMDBkOC00MGVkLWE2MTktZDQ1ODQ1YjI3ZTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDA3Mjc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlMzk5NDk0MzU4MDFjZjJmNWI1Y2FiNWUyMjM3YjdlNTljMzZkOTBjM2NiYzAxMGYxNDhiYmZiNTQwYmU0NTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yspkFaQ2HJ-ypI6SXrilSpoJKkBtnh7wiiE5qbC7w-c)
+![Login Page](https://github.com/user-attachments/assets/9ecea502-9c34-49cf-a595-0d78f82825b9)
 
 ### Home Page
 
