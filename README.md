@@ -22,8 +22,7 @@ This is a **Realtime Chat Application** built using the **MERN stack** (MongoDB,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/realtime-chat-app.git
-   cd realtime-chat-app
+   git clone https://github.com/ayush-ojha-11/Chat-App.git
    ```
 
 2. Install dependencies for both frontend and backend:
